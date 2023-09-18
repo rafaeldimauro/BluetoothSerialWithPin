@@ -118,7 +118,7 @@ module.exports = {
 
     unpair: function (macAddress, success, failure) {
         cordova.exec(success, failure, "BluetoothSerial", "unpair", [macAddress]);
-    }
+    },
 
     setDeviceDiscoveredListener: function (notify) {
         if (typeof notify != 'function')
