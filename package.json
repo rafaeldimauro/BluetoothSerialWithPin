@@ -1,10 +1,10 @@
 {
-  "name": "cordova-plugin-bluetooth-serial",
-  "version": "0.4.7",
+  "name": "cordova-plugin-bluetooth-serial-rafael",
+  "version": "1.0.0",
   "description": "Bluetooth Serial Communication Plugin",
   "main": "./www/bluetoothSerial.js",
   "cordova": {
-    "id": "cordova-plugin-bluetooth-serial",
+    "id": "cordova-plugin-bluetooth-serial-rafael",
     "platforms": [
       "android",
       "ios",
